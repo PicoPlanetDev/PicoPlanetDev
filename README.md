@@ -1,3 +1,7 @@
+### Hey, I'm PicoPlanetDev 👋
+
+<br>
+
 [![PicoPlanetDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=PicoPlanetDev&show_icons=true&title_color=4da0f4&icon_color=4da0f4&bg_color=0d1117&text_color=cccccc&border_color=4da0f4)](https://github.com/PicoPlanetDev)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=0078D6&color=4da0f4)
@@ -10,3 +14,7 @@
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=CSharp&logoColor=239120&color=4da0f4)
 ![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=flat&logo=Unity&logoColor=FFF&color=4da0f4)
 ![](https://img.shields.io/badge/VR-Oculus-informational?style=flat&logo=Oculus&logoColor=FFF&color=4da0f4)
+
+- I love making VR games and experimenting with computer vision
+- You can reach me at picoplanetdev@gmail.com
+- Windows user because of VR, wish Oculus on Linux was a thing
