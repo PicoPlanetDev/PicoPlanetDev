@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Shell-GNU_Bash-informational?style=flat&logo=GNUBash&logoColor=4EAA25&color=4da0f4)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=007ACC&color=4da0f4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=3776AB&color=4da0f4)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=VisualStudio&logoColor=5C2D91&color=4da0f4)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=VisualStudio&logoColor=5C2D91&color=4da0f4)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=CSharp&logoColor=239120&color=4da0f4)
 ![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=flat&logo=Unity&logoColor=FFF&color=4da0f4)
 ![](https://img.shields.io/badge/VR-Oculus-informational?style=flat&logo=Oculus&logoColor=FFF&color=4da0f4)
