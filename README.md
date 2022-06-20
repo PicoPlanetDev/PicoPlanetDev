@@ -20,4 +20,4 @@
 - Windows user because I love VR, when will Oculus on Linux be a thing!?
 
 VR development website: [picoplanetdev.tk](https://picoplanetdev.tk)  
-Personal portfolio: [sigmondkukla.dev](https://sigmondkukla.tk)
+Personal portfolio: [sigmondkukla.tk](https://sigmondkukla.tk)
