@@ -20,4 +20,5 @@
 - Windows user because I love VR, wish Oculus on Linux was a thing
 
 VR development website: [picoplanetdev.tk](https://picoplanetdev.tk)
+
 Personal portfolio: [sigmondkukla.dev](https://sigmondkukla.tk)
