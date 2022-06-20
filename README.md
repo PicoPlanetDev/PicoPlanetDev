@@ -1,4 +1,4 @@
-### Hey, I'm PicoPlanetDev 👋
+### Hey, I'm Sigmond Kukla 👋
 
 <br>
 
@@ -15,9 +15,9 @@
 ![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=flat&logo=Unity&logoColor=FFF&color=4da0f4)
 ![](https://img.shields.io/badge/VR-Oculus-informational?style=flat&logo=Oculus&logoColor=FFF&color=4da0f4)
 
-- I love making VR games and experimenting with computer vision
+- I love making VR games, experimenting with computer vision, and pushing the boundaries of other software and hardware
 - You can reach me at picoplanetdev@gmail.com
-- Windows user because I love VR, wish Oculus on Linux was a thing
+- Windows user because I love VR, when will Oculus on Linux be a thing!?
 
 VR development website: [picoplanetdev.tk](https://picoplanetdev.tk)  
 Personal portfolio: [sigmondkukla.dev](https://sigmondkukla.tk)
