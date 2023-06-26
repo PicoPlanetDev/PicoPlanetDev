@@ -16,8 +16,8 @@
 ![](https://img.shields.io/badge/VR-Oculus-informational?style=flat&logo=Oculus&logoColor=FFF&color=4da0f4)
 
 - I love making VR games, experimenting with computer vision, and pushing the boundaries of other software and hardware
-- You can reach me at picoplanetdev@gmail.com
+- You can reach me at picoplanetdev@gmail.com (business) or sigkukla@gmail.com (personal)
 - Windows user because I love VR, when will Oculus on Linux be a thing!?
 
 VR development website: [picoplanetdev.tk](https://picoplanetdev.tk)  
-Personal portfolio: [sigmondkukla.tk](https://sigmondkukla.tk)
+Personal portfolio: [sigmondkukla.dev](https://sigmondkukla.dev)
