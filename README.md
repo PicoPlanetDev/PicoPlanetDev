@@ -2,8 +2,6 @@
 
 <br>
 
-![PicoPlanetDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=PicoPlanetDev&show_icons=true&title_color=4da0f4&icon_color=4da0f4&bg_color=0d1117&text_color=cccccc&border_color=4da0f4)
-
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=0078D6&color=4da0f4)
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=Powershell&logoColor=5391FE&color=4da0f4)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=FCC624&color=4da0f4)
@@ -15,9 +13,10 @@
 ![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=flat&logo=Unity&logoColor=FFF&color=4da0f4)
 ![](https://img.shields.io/badge/VR-Oculus-informational?style=flat&logo=Oculus&logoColor=FFF&color=4da0f4)
 
+- High school senior building a daily display for Alzheimer's patients and a smallbore rifle digital firing point
 - I love making VR games, experimenting with computer vision, and pushing the boundaries of other software and hardware
 - You can reach me at picoplanetdev@gmail.com (business) or sigkukla@gmail.com (personal)
-- Windows user because I love VR, when will Oculus on Linux be a thing!?
+- Windows user because I love VR, will Oculus on Linux ever be a thing!?
 
 VR development website: [picoplanetdev.tk](https://picoplanetdev.tk)  
 Personal portfolio: [sigmondkukla.dev](https://sigmondkukla.dev)
