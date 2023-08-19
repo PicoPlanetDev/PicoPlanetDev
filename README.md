@@ -1,5 +1,3 @@
-![](https://github.com/PicoPlanetDev/PicoPlanetDev/blob/main/Tarantula_Banner.jpg?raw=true)
-
 ### Hey, I'm Sigmond Kukla 👋
 
 <br>
